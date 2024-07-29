@@ -31,12 +31,12 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/apj-abdul-kalam-tribute.git
+git clone https://github.com/Mohd-Nasir9651/Tribute_page_to_APJ.git
 Navigate to the project directory:
 
 bash
 Copy code
-cd apj-abdul-kalam-tribute
+cd Tribute_page_to_APJ
 Open index.html in your preferred web browser.
 
 Usage:-
